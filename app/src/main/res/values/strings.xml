@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ListViewDemo</string>
+    <string-array name="previous_classes">
+        <item>CSCI_315</item>
+        <item>CSCI_320</item>
+        <item>CSCI_332</item>
+        <item>CSCI_340</item>
+        <item>CSCI_350</item>
+        <item>CSCI_362</item>
+        <item>GEOL_105</item>
+        <item>GEOL_105L</item>
+        <item>MATH_203</item>
+        <item>MATH_250</item>
+    </string-array>
+</resources>
